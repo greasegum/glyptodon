@@ -1,0 +1,5 @@
+v0.085
+-change from xml output to JSON to facilitate easier parsing to python-dict type.
+v0.086
+-ditches first page of PDF during extraction (cover page)
+-extracts only first 5 pages of PDF text (for testing purposes)
